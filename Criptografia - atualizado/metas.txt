@@ -1,0 +1,4 @@
+
+adicionar dados pessoais. ex.: telefone e endereço
+adiconar possibilidado do usuario atulizar seus dados
+função para o admin listar todos os usuarios
